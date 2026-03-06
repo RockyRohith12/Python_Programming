@@ -8,8 +8,15 @@ print("Hey, I am Rohith \nMy nickname is Rocky")
 
 print("This a print statement.") #prints the statement 
 
+print("hey", 5, 12, sep = "---", end = "Avi")
+
+
+# sep is seperator that comes in between the words like hey---5---12
+# end is ending word that a sentence ends with like hey---5---12Avi,here Avi is en++ding word
+# default end is space 
 
 '''
+
 This is a multiline comment
 
 '''

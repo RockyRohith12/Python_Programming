@@ -9,8 +9,8 @@
 
 #1. Syntax error examples 
 
-#print("Hello World"      #SyntaxError: '(' was never closed
-#prin("Hello world")       #NameError: name 'prin' is not defined. Did you mean: 'print'?
+print("Hello World"      #SyntaxError: '(' was never closed
+prin("Hello world")       #NameError: name 'prin' is not defined. Did you mean: 'print'?
 
 
 #2. Runtime error examples 
